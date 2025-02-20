@@ -70,9 +70,3 @@ model_path = 'D:\\Users\\DELL\\Desktop\\.2\\trained-models\\model_final.pth'
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 🙌 Contributing
-Feel free to contribute! Open an issue or submit a pull request.
-
-## 📧 Contact
-For any questions, reach out at [your email].
-
